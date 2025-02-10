@@ -1,20 +1,20 @@
-# Hi, I'm [![Alok Srivastava!](https://github.com/virnahar/virnahar/blob/719de3b8ed40670e6b1ef586dea89090a58a0389/virendra_kumar.png)](https://virnahar.github.io "Alok Srivastava") <p align="center">👉🏻💻💖📷☕</p>
+# Hi, I'm [![Alok Srivastava!](https://github.com/virnahar/virnahar/blob/719de3b8ed40670e6b1ef586dea89090a58a0389/alok.png)](https://coolaries26.github.io "Alok Srivastava") <p align="center">👉🏻💻💖📷☕</p>
 
 
 
 
 <!-- markdownlint-disable MD033 -->
-<a href="[https://app.daily.dev/virnahar](https://app.daily.dev/virnahar)"><img src="https://github.com/virnahar/virnahar/blob/main/devcard.svg" width="250" align="right" alt="Alok Srivastava's Dev Card"/></a>
+<a href="[https://app.daily.dev/coolaries26](https://app.daily.dev/coolaries26)"><img src="https://github.com/coolaries26/coolaries26/blob/main/devcard.svg" width="250" align="right" alt="Alok Srivastava's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
-📢 Nominate ([@virnahar](https://virnahar.github.io)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to Automation.
+📢 Nominate ([@coolaries26](https://coolaries26.github.io)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to Automation.
 
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=facebook&logoColor=white)](https://facebook.com/virnahar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/virnahar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/virnahar)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=facebook&logoColor=white)](https://facebook.com/coolaries26) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/coolaries26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/coolaries26)
 
 
 
-<a href="[https://virnahar.github.io](https://virnahar.github.io)"><img src="https://github.com/virnahar/virnahar/blob/dc8bdf1f1358f6ce3a97c068f8898dd532434bd7/daftpunktocat-guy.gif" width="50" align="right" alt="I Am Vir"/></a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%20Script&color=38C2FFFF&size=30&width=500&lines=DevOps+Architect+.+.+.;Automation+Is+Fun+.+.+.;Cloud+Enthusiast+.+.+.;Photographer+.+.+.;and+Technopreneur!;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
+<a href="[https://coolaries26.github.io](https://coolaries26.github.io)"><img src="https://github.com/coolaries26/coolaries26/blob/dc8bdf1f1358f6ce3a97c068f8898dd532434bd7/daftpunktocat-guy.gif" width="50" align="right" alt="I Am Vir"/></a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%20Script&color=38C2FFFF&size=30&width=500&lines=DevOps+Architect+.+.+.;Automation+Is+Fun+.+.+.;Cloud+Enthusiast+.+.+.;Photographer+.+.+.;and+Technopreneur!;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
 
 
 DevOps Architect, Cloud Enthusiast, Pictographer, and Technopreneur from the INDIA. 
@@ -23,7 +23,7 @@ DevOps Architect, Cloud Enthusiast, Pictographer, and Technopreneur from the IND
 - ☕ In the world of Coffee lovers I am TEA lover != turning it into code 😋
 - 🎯 Wasting my time to save other people's time.
 - 📷 Photography is the story I fail to put into words.
-- 💡 [Learn more about me](https://virnahar.github.io).
+- 💡 [Learn more about me](https://coolaries26.github.io).
 
 
 ## 🔧 Technologies
@@ -49,6 +49,7 @@ DevOps Architect, Cloud Enthusiast, Pictographer, and Technopreneur from the IND
 👉🏻💻💖📷☕ by [Alok Srivastava](https://coolaries26.github.io) 🙏
 
 [![](https://visitcount.itsvg.in/api?id=coolaries26&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
+
 
 [personal website]: https://coolaries26.github.io
 [facebook]: https://facebook.com/coolaries26
