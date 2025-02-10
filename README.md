@@ -1,12 +1,12 @@
-# Hi, I'm [![Alok Srivastava!]([https://github.com/virnahar/virnahar/blob/719de3b8ed40670e6b1ef586dea89090a58a0389/alok.png)](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)](https://coolaries26.github.io "Alok Srivastava") <p align="center">👉🏻💻💖📷☕</p>
+# Hi, I'm <p align="center">[![Alok Srivastava!](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)](https://coolaries26.github.io "Alok Srivastava")</p> <p align="center">👉🏻💻💖📷☕</p>
 
 
 
 
 <!-- markdownlint-disable MD033 -->
-<a href="[https://app.daily.dev/coolaries26](https://app.daily.dev/coolaries26)"><img src="https://github.com/coolaries26/coolaries26/blob/main/devcard.svg" width="250" align="right" alt="Alok Srivastava's Dev Card"/></a>
+<a href="[https://app.daily.dev/coolaries26](https://app.daily.dev/coolaries26)"><img src="https://github.com/coolaries26/coolaries26/blob/main/AlokSrivastava%20002S11%20Bangalore%20Manyatha%2C%20MD4.jpg" width="250" align="right" alt="Alok Srivastava's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
-📢 Nominate ([@coolaries26](https://coolaries26.github.io)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication to Automation.
+📢 Nominate ([@Alok Srivastava](https://coolaries26.github.io)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication.
 
 
 
@@ -14,21 +14,24 @@
 
 
 
-<a href="[https://coolaries26.github.io](https://coolaries26.github.io)"><img src="https://github.com/coolaries26/coolaries26/blob/dc8bdf1f1358f6ce3a97c068f8898dd532434bd7/daftpunktocat-guy.gif" width="50" align="right" alt="I Am Vir"/></a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%20Script&color=38C2FFFF&size=30&width=500&lines=DevOps+Architect+.+.+.;Automation+Is+Fun+.+.+.;Cloud+Enthusiast+.+.+.;Photographer+.+.+.;and+Technopreneur!;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
+<a href="[https://coolaries26.github.io](https://coolaries26.github.io)"><img src="https://github.com/coolaries26/coolaries26/blob/main/log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%20Script&color=38C2FFFF&size=30&width=500&lines=DevOps+Architect+.+.+.;Automation+Is+Fun+.+.+.;Cloud+Enthusiast+.+.+.;DB2,+MSSQL,+PostgreSql,+DBA,+.+.+.;and+Technopreneur!;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
 
 
-DevOps Architect, Cloud Enthusiast, Pictographer, and Technopreneur from the INDIA. 
+DevOps Architect, Cloud Enthusiast, DBMS Expert, and Technopreneur from the INDIA. 
 
 
-- ☕ In the world of Coffee lovers I am TEA lover != turning it into code 😋
+- ☕ In the world of Tea lovers I am Coffee lover 😋
+- 👀 I’m interested in system administration and managing the applications
 - 🎯 Wasting my time to save other people's time.
-- 📷 Photography is the story I fail to put into words.
+- 💞️ I’m looking to collaborate on full backend support either onprem, cloud and hybrid.
 - 💡 [Learn more about me](https://coolaries26.github.io).
+- 📫 How to reach me ... kashyapalok@yahoo.com 
+- 😄 Pronouns: ... **He**
 
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,ansible,git,github,gitlab,grafana,prometheus,openshift,linux,py,bash,powershell,vscode,vim,nginx,html,css,mysql&theme=dark&perline=14)
+![skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,ansible,terraform,git,github,grafana,prometheus,openshift,linux,py,bash,powershell,vim,nginx,html,mysql&theme=dark&perline=14)
 
 
 <details>
@@ -61,11 +64,10 @@ DevOps Architect, Cloud Enthusiast, Pictographer, and Technopreneur from the IND
 
 
 - 👋 Hi, I’m "Alok Srivastava" (@coolaries26)
-- 👀 I’m interested in system administration and managing the applications 
+- 
 - 🌱 I’m currently learning stock market.
-- - 💞️ I’m looking to collaborate on full backend support.
-- 📫 How to reach me ... kashyapalok@yahoo.com 
-- 😄 Pronouns: ... He
+- - 
+- 
 - ⚡ Fun fact: ...
 
 <!---
