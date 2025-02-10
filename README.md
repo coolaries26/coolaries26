@@ -1,4 +1,4 @@
-# Hi, I'm [![Alok Srivastava!](https://github.com/virnahar/virnahar/blob/719de3b8ed40670e6b1ef586dea89090a58a0389/alok.png)](https://coolaries26.github.io "Alok Srivastava") <p align="center">👉🏻💻💖📷☕</p>
+# Hi, I'm [![Alok Srivastava!]([https://github.com/virnahar/virnahar/blob/719de3b8ed40670e6b1ef586dea89090a58a0389/alok.png)](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)](https://coolaries26.github.io "Alok Srivastava") <p align="center">👉🏻💻💖📷☕</p>
 
 
 
