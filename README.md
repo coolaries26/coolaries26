@@ -1,4 +1,4 @@
-# Hi, I'm <p align="center">[![Alok Srivastava!](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)](https://coolaries26.github.io "Alok Srivastava")</p> <p align="center">👉🏻💻💖📷☕</p>
+# Hi, I'm <p align="center">[![Alok Srivastava!](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)](https://coolaries26.github.io "Alok Srivastava")</p> 
 
 
 
@@ -31,7 +31,7 @@ DevOps Architect, Cloud Enthusiast, DBMS Expert, and Technopreneur from the INDI
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,ansible,terraform,git,github,grafana,prometheus,openshift,linux,py,bash,powershell,vim,nginx,html,mysql&theme=dark&perline=14)
+![skills](https://skillicons.dev/icons?i=azure,docker,kubernetes,ansible,terraform,linux,py,bash,powershell,mysql,git,github,grafana,prometheus&theme=dark&perline=14)
 
 
 <details>
@@ -43,13 +43,9 @@ DevOps Architect, Cloud Enthusiast, DBMS Expert, and Technopreneur from the INDI
 
 </details>
 
-<!-- markdownlint-enable MD033 -->
-
-![Metrics](https://github.com/coolaries26/coolaries26/blob/main/github-metrics.svg)
-
 ---
 
-👉🏻💻💖📷☕ by [Alok Srivastava](https://coolaries26.github.io) 🙏
+By [Alok Srivastava](https://coolaries26.github.io) 🙏
 
 [![](https://visitcount.itsvg.in/api?id=coolaries26&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 
@@ -61,14 +57,6 @@ DevOps Architect, Cloud Enthusiast, DBMS Expert, and Technopreneur from the INDI
 [youtube]: https://youtube.com/coolaries26
 
 ---------------------------------------------------------------------------------------------------------
-
-
-- 👋 Hi, I’m "Alok Srivastava" (@coolaries26)
-- 
-- 🌱 I’m currently learning stock market.
-- - 
-- 
-- ⚡ Fun fact: ...
 
 <!---
 coolaries26/coolaries26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
