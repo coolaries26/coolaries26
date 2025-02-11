@@ -1,4 +1,5 @@
-# Hi, I'm <p align="center">[![Alok Srivastava!](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)](https://coolaries26.github.io "Alok Srivastava")</p> 
+<!-- markdownlint-enable MD033 -->
+# Hi, I'm [![Alok Srivastava!](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)](https://coolaries26.github.io "Alok Srivastava")</p> 
 
 
 
