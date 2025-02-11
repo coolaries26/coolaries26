@@ -14,10 +14,10 @@
 
 
 
-<a href="[https://coolaries26.github.io](https://coolaries26.github.io)"><img src="https://github.com/coolaries26/coolaries26/blob/main/log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing%20Script&color=38C2FFFF&size=30&width=500&lines=DevOps+Architect+.+.+.;Automation+Is+Fun+.+.+.;Cloud+Enthusiast+.+.+.;DB2,+MSSQL,+PostgreSql,+DBA,+.+.+.;and+Technopreneur!;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
+<a href="[https://coolaries26.github.io](https://coolaries26.github.io)"><img src="https://github.com/coolaries26/coolaries26/blob/main/log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=335bff&size=30&width=500&lines=IBM+DB2+DBA+.+.+.;MSSQL+DBA+.+.+.;PostgreSql+DBA+.+.+.;System+Adminstrator+.+.+.;DevOps+Engineer+.+.+.;Cloud+Provisioning+and+maintenance+.+.+.;Automation+Is+Fun+.+.+.;Always+learning+new+things+.+.+.;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
 
 
-DevOps Architect, Cloud Enthusiast, DBMS Expert, and Technopreneur from the INDIA. 
+<font style="font-family:Henny Penny" size=20>DBMS Expert, System Administrator, Cloud administrator & DevOps Engineer from<B> INDIA.</B></font> 
 
 
 - ☕ In the world of Tea lovers I am Coffee lover 😋
