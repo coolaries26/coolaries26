@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Henny%20Penny&color=335bff&size=30&width=500&lines=Hi+,+I+am+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Henny%20Penny&color=db5f17&size=30&width=500&lines=Hi+,+I+am+.+.+.)](https://git.io/typing-svg)
 <!-- markdownlint-disable MD033 -->
 <p align: center> <img src="https://github.com/coolaries26/coolaries26/blob/main/alok.name.png"></img></p> 
 
