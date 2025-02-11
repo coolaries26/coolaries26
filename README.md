@@ -1,10 +1,10 @@
+<!-- markdownlint-disable MD033 -->
 
 # Hi, I'm <p align: center> <img src="https://github.com/coolaries26/coolaries26/blob/main/alok.name.png"></p> 
 
 
 
 
-<!-- markdownlint-disable MD033 -->
 <a href="[https://app.daily.dev/coolaries26](https://app.daily.dev/coolaries26)"><img src="https://github.com/coolaries26/coolaries26/blob/main/AlokSrivastava%20002S11%20Bangalore%20Manyatha%2C%20MD4.jpg" width="250" align="right" alt="Alok Srivastava's Dev Card"/></a>
 <!-- markdownlint-enable MD033 -->
 📢 Nominate ([@Alok Srivastava](https://coolaries26.github.io)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication.
