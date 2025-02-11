@@ -11,11 +11,8 @@
 
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=facebook&logoColor=white)](https://facebook.com/coolaries26) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/coolaries26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/coolaries26)
-
-
-
-<a href="[https://coolaries26.github.io](https://coolaries26.github.io)"><img src="https://github.com/coolaries26/coolaries26/blob/main/log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=335bff&size=30&width=500&lines=IBM+DB2+DBA+.+.+.;MSSQL+DBA+.+.+.;PostgreSql+DBA+.+.+.;System+Adminstrator+.+.+.;DevOps+Engineer+.+.+.;Cloud+Provisioning+and+maintenance+.+.+.;Automation+Is+Fun+.+.+.;Always+learning+new+things+.+.+.;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
+<a href="[https://coolaries26.github.io](https://coolaries26.github.io)"><img src="https://github.com/coolaries26/coolaries26/blob/main/log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=335bff&size=30&width=500&lines=IBM+DB2+DBA+.+.+.;MSSQL+DBA+.+.+.;PostgreSql+DBA+.+.+.;System+Adminstrator+.+.+.;DevOps+Engineer+.+.+.;Cloud+Provisioning+and+maintenance+.+.+.;Automation+Is+Fun+.+.+.;Always+learning+new+things+.+.+.;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
 
 <!-- markdownlint-disable MD033 -->
 
@@ -50,14 +47,13 @@
 
 By [Alok Srivastava](https://coolaries26.github.io) 🙏
 
-[![](https://visitcount.itsvg.in/api?id=coolaries26&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 
-
-[personal website]: https://coolaries26.github.io
-[facebook]: https://facebook.com/coolaries26
-[twitter]: https://twitter.com/coolaries26
-[instagram]: [https://instagram.com/coolaries26](https://www.instagram.com/alok_ballia/)
-[youtube]: https://youtube.com/coolaries26
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-srivastava-42383320/)
+[![Personal website](https://img.shields.io/badge/Personal%20Website-%2332fge.svg?&style=plastic&logo=Personal%20Website&logoColor=white)](https://coolaries26.github.io)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=plastic&logo=facebook&logoColor=white)](https://facebook.com/coolaries26)
+[![Twitter](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=plastic&logo=x&logoColor=black)](https://twitter.com/coolaries26)
+[![instagram](https://img.shields.io/badge/instagam-%23962fbf.svg?&style=plastic&logo=instagram&logoColor=pink)](https://www.instagram.com/alok_ballia/)
+[![youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=plastic&logo=youtube&logoColor=white)](https://youtube.com/coolaries26)
 
 ---------------------------------------------------------------------------------------------------------
 
