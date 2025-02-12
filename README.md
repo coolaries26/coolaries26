@@ -1,7 +1,7 @@
 <!-- markdownlint-enable MD033 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Henny%20Penny&color=db5f17&size=30&width=500&lines=Hi+,+I+am+.+.+.)](https://git.io/typing-svg)
-![alt text](image-1.png)
+![alt text](alok.name.png)
 
 <!-- markdownlint-disable MD033 -->
 
@@ -13,8 +13,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-<a href="https://coolaries26.github.io/coolaries26"><img src="https://github.com/coolaries26/coolaries26/blob/main/log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>![alt width="50" align="right"](image-2.png){:width="50"}
-
+<a href="https://coolaries26.github.io/coolaries26"><img src="log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>
 <!-- markdownlint-enable MD033 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=335bff&size=30&width=500&lines=IBM+DB2+DBA+.+.+.;MSSQL+DBA+.+.+.;PostgreSql+DBA+.+.+.;System+Adminstrator+.+.+.;DevOps+Engineer+.+.+.;Cloud+Provisioning+and+maintenance+.+.+.;Automation+Is+Fun+.+.+.;Always+learning+new+things+.+.+.;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
