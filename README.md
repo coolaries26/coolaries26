@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Henny%20Penny&color=db5f17&size=30&width=500&lines=Hi+,+I+am+.+.+.)](https://git.io/typing-svg)
 ![](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)
+
 <!-- markdownlint-disable MD033 -->
 
 <a href="https://app.daily.dev/coolaries26"><img src="https://github.com/coolaries26/coolaries26/blob/main/AlokSrivastava%20002S11%20Bangalore%20Manyatha%2C%20MD4.jpg" width="250" align="right" alt="Alok Srivastava's Dev Card"/></a>
