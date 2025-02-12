@@ -1,2 +1,9 @@
-markdown_extensions:
-  - attr_list
+title: coolaries26
+description: some description
+google_analytics: 
+show_downloads: true 
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
+  - gemfile
