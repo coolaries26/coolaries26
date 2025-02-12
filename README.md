@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Henny%20Penny&color=db5f17&size=30&width=500&lines=Hi+,+I+am+.+.+.)](https://git.io/typing-svg)
+![](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)
 <!-- markdownlint-disable MD033 -->
-<p align: center> <img src="https://github.com/coolaries26/coolaries26/blob/main/alok.name.png"></img></p> 
-
-
-
 
 <a href="[https://app.daily.dev/coolaries26](https://app.daily.dev/coolaries26)"><img src="https://github.com/coolaries26/coolaries26/blob/main/AlokSrivastava%20002S11%20Bangalore%20Manyatha%2C%20MD4.jpg" width="250" align="right" alt="Alok Srivastava's Dev Card"/></a>
+
 <!-- markdownlint-enable MD033 -->
 📢 Nominate ([@Alok Srivastava](https://coolaries26.github.io)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hardwork and dedication.
 
@@ -16,7 +14,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-<span style="font-family: Coiny">DBMS Expert, System Administrator, Cloud administrator & DevOps Engineer from<b> INDIA.</b></span>
+<h4 style="font-family: courier"> DBMS Expert, System Administrator, Cloud administrator & DevOps Engineer from<b> INDIA.</b></h2>
 
 <!-- markdownlint-enable MD033 -->
 
