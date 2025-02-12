@@ -13,7 +13,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-<a href="https://coolaries26.github.io/coolaries26"><img src="https://github.com/coolaries26/coolaries26/blob/main/log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>![alt width="50" align="right"](image-2.png)
+<a href="https://coolaries26.github.io/coolaries26"><img src="https://github.com/coolaries26/coolaries26/blob/main/log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>![alt width="50" align="right"](image-2.png){:width="50"}
 
 <!-- markdownlint-enable MD033 -->
 
