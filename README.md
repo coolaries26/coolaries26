@@ -22,9 +22,7 @@
 DBMS Expert | System Administrator | Cloud administrator | DevOps Engineer 
 ------------|----------------------|---------------------|--
 
-
-<!-- markdownlint-disable MD033 -->
-<span style="font-family: Fixedsys; text-align: center;"><h4>From INDIA</h4></span>
+## From INDIA
 
 <!-- markdownlint-enable MD033 -->
 
