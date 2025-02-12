@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Henny%20Penny&color=db5f17&size=30&width=500&lines=Hi+,+I+am+.+.+.)](https://git.io/typing-svg)
 ![alt text](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)!
+![alt text](image-1.png)
 
 <!-- markdownlint-disable MD033 -->
 
