@@ -45,7 +45,7 @@
 
 ---
 
-By [Alok Srivastava](https://coolaries26.github.io) 🙏
+By [Alok Srivastava](https://coolaries26.github.io/coolaries26) 🙏
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-srivastava-42383320/)
