@@ -18,9 +18,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=335bff&size=30&width=500&lines=IBM+DB2+DBA+.+.+.;MSSQL+DBA+.+.+.;PostgreSql+DBA+.+.+.;System+Adminstrator+.+.+.;DevOps+Engineer+.+.+.;Cloud+Provisioning+and+maintenance+.+.+.;Automation+Is+Fun+.+.+.;Always+learning+new+things+.+.+.;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
 
-<!-- markdownlint-disable MD033 -->
 
-<h4 style="font-family: Cascadia Code;"> DBMS Expert, System Administrator, Cloud administrator & DevOps Engineer from<b> INDIA.</b></h4>
+DBMS Expert | System Administrator | Cloud administrator | DevOps Engineer 
+------------|----------------------|---------------------|--
+<!-- markdownlint-disable MD033 -->
+<span style="font-family: Fixedsys; text-align: center;"><h4>From INDIA</h4></span>
 
 <!-- markdownlint-enable MD033 -->
 
@@ -41,7 +43,7 @@
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-![](https://github-readme-stats.vercel.app/api?username=coolaries26&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![alt text](https://github-readme-stats.vercel.app/api?username=coolaries26&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coolaries26&theme=radical&hide_border=false)
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=coolaries26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
