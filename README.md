@@ -1,7 +1,6 @@
 <!-- markdownlint-enable MD033 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Henny%20Penny&color=db5f17&size=30&width=500&lines=Hi+,+I+am+.+.+.)](https://git.io/typing-svg)
-![alt text](https://github.com/coolaries26/coolaries26/blob/main/alok.name.png)!
 ![alt text](image-1.png)
 
 <!-- markdownlint-disable MD033 -->
@@ -14,7 +13,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-<a href="https://coolaries26.github.io/coolaries26"><img src="https://github.com/coolaries26/coolaries26/blob/main/log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>
+<a href="https://coolaries26.github.io/coolaries26"><img src="https://github.com/coolaries26/coolaries26/blob/main/log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>![alt width="50" align="right"](image-2.png)
 
 <!-- markdownlint-enable MD033 -->
 
