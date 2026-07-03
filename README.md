@@ -43,9 +43,9 @@ Data Platform Engineer |DBMS Expert | System Administrator | Cloud administrator
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-![alt text](https://github-readme-stats.vercel.app/api?username=coolaries26&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=coolaries26&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coolaries26&theme=radical&hide_border=false)
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=coolaries26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coolaries26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </details>
 
