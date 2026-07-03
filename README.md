@@ -16,11 +16,11 @@
 <a href="https://coolaries26.github.io/coolaries26"><img src="log_oa.gif" width="50" align="right" alt="I Am Alok"/></a>
 <!-- markdownlint-enable MD033 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=335bff&size=30&width=500&lines=IBM+DB2+DBA+.+.+.;MSSQL+DBA+.+.+.;PostgreSql+DBA+.+.+.;System+Adminstrator+.+.+.;DevOps+Engineer+.+.+.;Cloud+Provisioning+and+maintenance+.+.+.;Automation+Is+Fun+.+.+.;Always+learning+new+things+.+.+.;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=335bff&size=30&width=500&lines=Data+platform+Engineering+.+.+.;IBM+DB2+DBA+.+.+.;MSSQL+DBA+.+.+.;PostgreSql+DBA+.+.+.;System+Adminstrator+.+.+.;DevOps+Engineer+.+.+.;Cloud+Provisioning+and+maintenance+.+.+.;Automation+Is+Fun+.+.+.;Always+learning+new+things+.+.+.;Nice+to+meet+you+.+.+.)](https://git.io/typing-svg)
 
 
-DBMS Expert | System Administrator | Cloud administrator| DevOps Engineer  
-------------|---------------------|-----------------|----
+Data Platform Engineer |DBMS Expert | System Administrator | Cloud administrator| DevOps Engineer  
+-----------------------|------------|----------------------|--------------------|----
 
 ### From INDIA
 
