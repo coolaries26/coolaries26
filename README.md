@@ -37,7 +37,7 @@ Data Platform Engineer |DBMS Expert | System Administrator | Cloud administrator
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=py,azure,docker,kubernetes,ansible,terraform,linux,bash,powershell,mysql,git,github,grafana,prometheus&theme=dark&perline=14)
+![skills](https://skillicons.dev/icons?i=py,azure,snowflake,docker,kubernetes,ansible,terraform,linux,bash,powershell,mysql,git,github,grafana,prometheus&theme=dark&perline=14)
 
 
 <details>
